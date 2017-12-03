@@ -1,5 +1,6 @@
 a bunch
 a few things
+a look ahead
 accounted for
 action item
 actual
@@ -7,8 +8,10 @@ additional
 admittedly
 again
 against which
+agile
 ahead
 allow
+alongside
 also,
 alternative choice
 and the like
@@ -16,15 +19,20 @@ and then
 and then so
 are all the
 area
+areas of
+around
 as a result of this
 as follows
+as how
 as such
 as we
 as we move forward
+as we start
 as well as
 as we’re
 as you
-as you get 
+as you get
+aspect
 assessing
 at the end of the day
 at this point
@@ -35,10 +43,18 @@ begin to
 beginning
 being able
 being put together
+beneficial
+between them
 big league
-bigly 
+bigly
+block out
+bolstering
 brand new
+broader themes
+business impact
+but seeing
 by the time
+by way
 calibration
 call out
 cement
@@ -46,25 +62,30 @@ certain
 challenges
 circle back
 cleaner signals
-clearly 
+clearly
+closed out
 code complete
 come due
 come up with
 completely
-component 
-conceptual 
+component
+conceptual
 consolidated
 context
-continue 
-continuing 
+continue
+continued
+continuing
 creating
+cross functional
 cut
-cutting 
+cutting
 declare
+deliver
+delivering
 details
 devil’s advocate
 directly
-disentangled 
+disentangled
 disrupt
 diverge
 do so much more
@@ -74,34 +95,52 @@ don't worry
 drill down
 drive
 dubious
-due to the fact 
+due to the fact
+during which
+each different
 effort
 efforts
 elevated
+emphasis
 encourage you all
 end result
 end users
+engage
+enormous
 epic
+established
+evangelize
 evidenced by
 exactly
+expanded scope
 experience
+fairly
 figure out
 finally
+focal
 focus
 focusing on it
 follow-up
+following,
+for details
+for me
 for this
 from what i’ve heard
 fuel
+full stack
+function
+functional
 functionally for
-further
+fundamentals
 further
 futhermore
 future
 gaps
 generally,
+get a better
 given that
 going forward
+got
 halting
 has been
 hash out
@@ -110,7 +149,7 @@ have provided some clarity here
 having said that
 headstart
 hence
-high level 
+high level
 holistic
 honestly
 huge
@@ -122,9 +161,11 @@ in addition to
 in conjunction
 in order to
 in the future
+in the interest of time
 incrementally
-indicative 
+indicative
 initiate
+inquiries
 instituted
 interwoven
 involved
@@ -132,7 +173,10 @@ involvement
 is being
 is known
 is what
+it seems
 it’s time for
+joint effort
+just
 just because
 just like
 justification
@@ -140,19 +184,23 @@ keeping
 keeping in mind
 key
 kick in
+last but not least
 later part
 leader
 leaning towards
 learnings
+less than desirable
 level set
 leverage
+likely
 limitations
 lining up
 lists
+lookahead
 looks like
 make it so
-make sure 
-marginal 
+make sure
+marginal
 meaningful
 might be a
 model of
@@ -160,7 +208,9 @@ more even
 more general
 more important or less important
 more like
+more to follow
 most important things
+much more
 need further
 not only that
 note
@@ -170,50 +220,62 @@ now
 nuance
 number
 numerous other aspects
+obtain
 obviate
 obviously
+of all
 of having
 of our
 of whether
 on a going forward basis
 on both
 on one hand
+on that
 on that front
+on-boarded
 once we
+operational excellence
 operative
 outcome
 overall
 overview
 parallelize
 partnering
+percentage
 phase
 plus,
+powerful
 pretty
-pretty
-preventative 
+preventative
 prompted
 properly
 provide
-provide
 provided some
+purposeful
+push
 put together
 reach out
 real
 really
 rebuilding
-resonate 
+regarding
+resonate
 revisit
 right kind of
 right way
 righteous
 roll around
 scalable
+scrum
 seeing trends
 series
+set the bar
+several
 shareout
 side
+signal to noise
 significant
-solid 
+solid
 some of it
 some time
 stab
@@ -224,15 +286,17 @@ stick
 streamline
 streamlining
 streams
+stretched
+strides
 stuff
-synergy 
+synergy
 take a couple of seconds
 take the opportunity
 take this time
 talk a little bit
 talking about
 tentative
-that is, 
+that is,
 that the
 the fact that
 the rate of
@@ -242,26 +306,34 @@ thinking
 this means
 this time
 thrashing
+through the majority
 to make sure
 to use
 top level
+toward
 tremendous
+triaged
 trying to
+turnout
 ultimately
-ultimately 
 umbrage
 underscore
+understanding
 uptick
+usually,
 utilize
+value
 variety
 various
+vast
+velocity
 very
-was just 
+was just
 was used
 ways
 we are working
 we'd like to
-what we call 
+what we call
 which will
 will also
 will continue
@@ -269,92 +341,7 @@ will face
 will start
 within
 work stream
-work stream
 working
 working to
 wrap up
 wrapping
-usually,
-inquiries
-get a better
-understanding
-likely
-following,
-beneficial
-regarding
-finally
-block out
-it seems
-by way
-just
-obtain
-but seeing
-as how
-for me
-of all
-of our
-alongside
-a look ahead
-broader themes
-as we start
-areas of 
-emphasis
-in the interest of time
-holistic
-key
-aspect
-lookahead
-joint effort
-around
-focal
-agile
-enormous
-elevated
-code complete
-powerful
-last but not least
-more to follow
-on that
-push
-toward
-during which
-deliver
-delivering
-scrum
-full stack
-cross functional
-functional
-continued
-strides
-got
-velocity
-established
-set the bar
-triaged
-closed out
-signal to noise
-less than desirable
-expanded scope
-through the majority
-vast
-turnout
-engage
-on-boarded
-bolstering
-percentage
-stretched
-business impact
-several
-for details
-very
-operational excellence 
-fairly
-fundamentals
-much more
-each different
-as we 
-purposeful 
-between them
-evangelize
-function
-value
