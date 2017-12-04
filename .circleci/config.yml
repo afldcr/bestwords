@@ -1,0 +1,33 @@
+# .circleci/config.yml
+version: 2
+jobs:
+  build_deploy_job:
+    docker:
+      - image: olanilsson/emacs-ci:25.3
+    environment:
+      - PATH: "/opt/emacs/25.3/bin:/usr/bin:/bin"
+    working_directory: ~/bestwords
+    steps:
+      - checkout
+      - run:
+          name: Update Regular Expression File
+          command: ./update-regexp
+      - run:
+          name: Commit changes
+          command: |
+            git config --global user.email 'void@quodli.bet'
+            git config --global user.name 'The Empty Set'
+            if ! git diff --quiet; then
+            git add bestwords.regexp
+            git commit -m 'Update regular expression file'
+            git push origin master
+            fi
+
+workflows:
+  version: 2
+  build_deploy:
+    jobs:
+      - build_deploy_job:
+          filters:
+            branches:
+              only: master
