@@ -488,3 +488,9 @@ allowed
 quality
 major
 noteworthy
+literally
+in actuality
+follow up
+circle up
+circle back
+close the loop
