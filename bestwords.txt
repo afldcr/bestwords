@@ -69,6 +69,7 @@ as you
 as you get
 aspect
 assessing
+associated
 at here
 at risk
 at the end of the day
@@ -152,6 +153,7 @@ concept out
 conceptual
 connecting
 considered
+considering
 consistent
 consolidated
 constrained
@@ -205,6 +207,7 @@ don't worry
 downright
 drill down
 drive
+driving
 dubious
 due to
 due to the fact
@@ -233,6 +236,7 @@ enormous
 entire
 entitlement
 entitlements
+entropy
 envelope
 epic
 escalate
@@ -246,6 +250,7 @@ evidenced by
 exactly
 excellence
 execution
+expand
 expanded scope
 expected
 experience
@@ -363,11 +368,13 @@ in speaking with
 in the future
 in the interest of time
 in the past
+in view
 inaugural
 increasing
 incredibly
 incrementally
 indicative
+infected
 influence
 information
 informed
@@ -558,6 +565,7 @@ providing
 purpose
 purposeful
 push
+pushing
 put together
 putting
 quality
@@ -572,6 +580,7 @@ reasons being
 rebuilding
 recap
 reclaim
+recognition
 redefine
 reducing
 reevaluate
@@ -581,6 +590,7 @@ reflect
 regarding
 reinforcing
 related
+relevant
 remaining
 remediations
 report
@@ -687,6 +697,7 @@ the time
 thinking
 this means
 this time
+thought leader
 thrashing
 through the majority
 throughout
