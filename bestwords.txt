@@ -154,6 +154,7 @@ connecting
 considered
 consistent
 consolidated
+constrained
 consumer
 context
 continue
@@ -163,6 +164,7 @@ continuing
 continuous improvement
 contributed
 core competency
+correct me if I’m wrong
 could
 couple
 creating
@@ -187,10 +189,12 @@ determined
 develop
 development
 devil's advocate
+difference
 directional
 directly
 discussion
 disentangled
+disposition
 disrupt
 diverge
 do so much more
@@ -243,6 +247,7 @@ exactly
 excellence
 execution
 expanded scope
+expected
 experience
 extra
 extremely
@@ -300,6 +305,7 @@ gathered
 general
 generally
 generally,
+generation
 get a better
 get started
 given that
@@ -322,6 +328,8 @@ have provided some clarity here
 having
 having said that
 headstart
+headwind
+headwinds
 help here
 hence
 high level
@@ -367,8 +375,10 @@ initiate
 inquiries
 insight
 instituted
+integrity
 intentions
 interfere
+interim
 internal
 interwoven
 introductory
@@ -404,6 +414,7 @@ less than desirable
 let me be
 level set
 leverage
+leveraging
 likely
 limitations
 lining up
@@ -425,6 +436,7 @@ made to
 major
 make it so
 make sure
+manner
 marginal
 materials
 meaningful
@@ -456,6 +468,7 @@ now
 nuance
 number
 numerous other aspects
+nurture
 objection
 obtain
 obviate
@@ -485,6 +498,7 @@ operative
 opportunities
 opportunity
 optics
+optimize
 optimizing
 others
 out of
@@ -497,6 +511,7 @@ overview
 pain points
 paradigms
 parallelize
+part of
 participate
 participation
 particular
@@ -528,6 +543,7 @@ primarily
 prioritizing
 priority
 process
+processes
 profiles
 program
 progress
@@ -568,10 +584,13 @@ related
 remaining
 remediations
 report
+resolve
 resonate
 resource
 resourcing
 respite
+responsible
+revamped
 revisit
 rich
 right kind of
@@ -642,6 +661,7 @@ such
 suffice
 supplement
 sure
+surfaced
 surprisingly
 synergies
 synergy
@@ -656,6 +676,7 @@ talented
 talk a little bit
 talking about
 tentative
+than that
 that is,
 that the
 the fact that
@@ -721,6 +742,7 @@ what we call
 which will
 while we have not
 wide
+wider
 will also
 will continue
 will face
