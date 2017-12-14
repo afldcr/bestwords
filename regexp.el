@@ -7,7 +7,7 @@
   "The file-system path containing the regular expression.")
 
 (defconst whitespace-chars
-  " \t\k\r\v"
+  " \t\r\v"
   "Whitespace control sequences.")
 
 (defun parse-items ()
