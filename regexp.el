@@ -44,8 +44,15 @@ with the \\b escape code."
     ;; replace extraneous escapes and wrap with \\b
     (goto-char (point-min))
     (insert "\\b")
-    (while (search-forward-regexp "\\\\\\([()|]\\)" nil t)
-      (replace-match "\\1" t))
+    (let ((continue t))
+      (while continue
+        (setq continue nil)
+        (when (search-forward-regexp "\\\\\\([()|]\\)" nil t)
+          (setq continue t)
+          (replace-match "\\1" t))
+        (when (search-forward "’" nil t)
+          (setq continue t)
+          (replace-match "'" t))))
     (goto-char (point-max))
     (insert "\\b\n")
     (write-file regexp-path)))
