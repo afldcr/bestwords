@@ -1030,3 +1030,9 @@ acceptance
 criteria
 loop
 ideally
+as a reminder
+pushed
+help us
+connect
+as always
+join us
