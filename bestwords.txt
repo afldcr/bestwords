@@ -1538,3 +1538,62 @@ this change
 completion
 year-end
 would like
+delay
+hard due
+moved
+team member
+re-commit
+progressed
+launch
+onsite
+late
+early
+ingested
+requirements
+more info
+dependencies
+dependent 
+low
+resources
+targeting
+issues
+dates
+sequencing
+forklift
+will serve
+meantime
+in the meantime
+exploring
+self-serve
+possibility
+mature
+fit under
+fit
+more
+next week
+presented
+will discuss
+replicated
+standardize
+based
+plays
+improvement
+coverage
+accuracy 
+adding
+validation
+checks
+robust
+problematic
+short term
+permanent
+is built 
+dropped
+variation
+gamification
+statistically
+variation
+as necessary
+stage
+fine-tune
+end of
