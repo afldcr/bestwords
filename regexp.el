@@ -10,6 +10,15 @@
   " \t\r\v"
   "Whitespace control sequences.")
 
+(defun change-start-case (word upcase-p)
+  "Change the case of the first letter of WORD.
+If UPCASE-P is non-nil, make it uppercase; otherwise, make it
+lowercase."
+  (concat (funcall (if upcase-p #'upcase #'downcase)
+                   (substring word 0 1))
+          (substring word 1)))
+
+
 (defun parse-items ()
   "In the current buffer, read each line as an item.
 Whitespace defined by `whitespace' is stripped off of the front
@@ -23,7 +32,9 @@ and end of each item."
              (item-end   (progn (goto-char (point-at-eol))
                                 (skip-chars-backward whitespace-chars eol)
                                 (point))))
-        (push (buffer-substring item-start item-end) words)
+        (let ((word (buffer-substring item-start item-end)))
+          (push (change-start-case word nil) words)
+          (push (change-start-case word t)   words))
         (forward-line 1)))
     words))
 
