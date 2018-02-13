@@ -37,7 +37,6 @@ actions
 active
 active use
 actively
-actual
 adapted
 adding
 additional
@@ -770,8 +769,6 @@ innovation
 innovations
 inquiries
 insanely
-insight
-insights
 inspiring
 installment
 instead
@@ -1203,7 +1200,6 @@ reliability
 remaining
 remediations
 replicated
-report
 report to
 repository
 requirements
