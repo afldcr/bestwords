@@ -1035,7 +1035,6 @@ outcome
 outcomes
 outreach
 outstanding
-over
 over time
 overage
 overall
@@ -1951,3 +1950,21 @@ slate
 shaping up
 staff up
 take a moment
+need to take
+on a positive note
+(respectively)
+necessary
+operationalize
+knowledge transfer 
+incorporating
+project scope
+therefore
+workarounds
+require help
+for now
+provided
+department-level
+eliminate
+lift and shift
+adopted
+proceed
