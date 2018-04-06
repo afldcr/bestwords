@@ -122,7 +122,6 @@ as we
 as we move forward
 as we start
 as we're
-as well as
 as with
 as you
 as you can tell
@@ -363,7 +362,6 @@ cutting
 dates
 debrief
 debugged
-decision
 declare
 dedicated
 deem
@@ -775,7 +773,6 @@ integrating
 integrity
 intended
 intensity
-intention
 intentionally
 intentions
 interactions
@@ -2029,7 +2026,6 @@ defined by
 occurs
 understood
 acknowledge
-understand
 need to be reset
 misalignment
 nothing worse
