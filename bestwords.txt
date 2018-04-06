@@ -354,7 +354,6 @@ cross functional
 cross-functional
 crystal
 curiosity
-current
 current state
 currently
 customer experience
@@ -552,14 +551,12 @@ finish off
 fire on all cylinders
 first round
 first time
-fit
 fit under
 flexibility
 focal
 focus
 focused
 focusing on it
-follow up
 follow-up
 following
 following,
@@ -672,7 +669,6 @@ heavy
 help here
 help us
 hence
-here
 here's the
 high level
 high standard
@@ -685,7 +681,6 @@ historically
 hobo
 holistic
 honestly
-hope
 hopefully
 hosted
 hotspots
@@ -791,7 +786,6 @@ interlocks
 internal
 internal language
 interwoven
-into
 introductory
 involved
 involvement
@@ -858,7 +852,6 @@ level set
 lever
 leverage
 leveraging
-likely
 limitations
 lining up
 lists
@@ -927,7 +920,6 @@ modernize
 modifications
 modularization
 moment
-more
 more and more
 more even
 more general
@@ -1063,7 +1055,6 @@ passionate
 past and present
 path
 penetration
-per
 perceived
 percentage
 perfecting
@@ -1126,7 +1117,6 @@ produce
 production grade
 productivity
 profiles
-program
 progress
 progressed
 prompted
@@ -1187,7 +1177,6 @@ reference
 refine
 reflect
 reflecting
-refresher
 regarding
 regular
 reinforce
@@ -1324,7 +1313,6 @@ stand point
 standardize
 standing up
 standpoint
-starting
 starting out
 state of
 state of the art
@@ -1567,7 +1555,6 @@ will start
 window-dressing
 wise
 with how
-within
 work
 work on
 work stream
@@ -1605,7 +1592,7 @@ simplified
 corresponding
 rather
 staffing
-in-flight 
+in-flight
 hinder
 difficulties
 reverting
@@ -1623,7 +1610,7 @@ timelines
 familiar
 to you
 specifics
-note that 
+note that
 not defined
 yet
 that's ok
@@ -1652,7 +1639,7 @@ action requested
 keep this in mind
 when reviewing
 as a
-varying 
+varying
 degrees
 in each
 with you as well
@@ -1662,7 +1649,7 @@ collapse
 increased
 best in class
 one of the
-readiness 
+readiness
 may have seen
 in the news
 so I
@@ -1698,7 +1685,7 @@ cycle
 facilitate
 deeper
 sucks
-logistical 
+logistical
 friction-free
 doubling down
 go-to-market
@@ -1808,7 +1795,7 @@ large
 sticky
 for more
 proven out
-fleshed out 
+fleshed out
 continuity
 arsenal
 can count on
@@ -1857,13 +1844,13 @@ knowledge base
 chances are
 dedication
 undertakes
-encourage 
+encourage
 knowledge-sharing
 industrialization
 gusto
 through it all
 cornerstone
-key contributor 
+key contributor
 ceaseless
 developments
 invaluable
@@ -1877,7 +1864,7 @@ transformed
 demeanor
 furthermore
 trajectory
-as long as 
+as long as
 run-the-business
 champion
 effective
@@ -1955,7 +1942,7 @@ on a positive note
 (respectively)
 necessary
 operationalize
-knowledge transfer 
+knowledge transfer
 incorporating
 project scope
 therefore
@@ -2046,8 +2033,8 @@ understand
 need to be reset
 misalignment
 nothing worse
-only to realize 
-in the end 
+only to realize
+in the end
 satisfying
 stakeholders needs
 re-adjust
