@@ -2054,3 +2054,7 @@ enrichment
 procurement
 came up with
 is able to
+visionaries
+technologists
+evangelists
+horizon
