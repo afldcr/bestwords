@@ -4,15 +4,21 @@ a few things
 a level
 a look ahead
 a moment
+a set of
 a slip
 a study
 a ton of
 abbreviation
+abide
+abilities
 ability
+ability to execute
 about
 about a
+above all
 absolute
 accelerate
+accelerating
 acceptable
 acceptance
 accepting
@@ -27,45 +33,67 @@ accounted for
 accuracy
 achieve
 achieved
+achievements
 achieving
+acknowledge
 across
 across teams
+act
+acted
+acting on it
 action
 action item
+action requested
 actionable
 actions
 active
 active use
 actively
+activities
 adapted
 adding
+addition
 additional
 address
+addressed
 addressing
 adheres
 adjacent
 adjustment
 admittedly
+adopted
 adoption
 advancements
+advancing
 advising
+advocate
 advocating
+affecting
+aforementioned
 after conversation
+after the fact
 again
 against which
+aggregate
 agile
 ago
 ahead
+aimed
 aiming
 aims
 align
 aligned
+aligning
 alignment
 all
+all the while
+all things
 allocations
 allow
 allowed
 allows
+almost complete
+alone
 along
 alongside
 already
@@ -75,8 +103,11 @@ alternative choice
 although
 amazing
 ambition
+among
 amount
+amounts to
 amplify
+amplifying
 an eye out
 an issue
 analyses
@@ -93,6 +124,7 @@ apparently
 appear
 apply
 appreciate your feedback
+apprised
 approach
 approaches
 approaching
@@ -100,12 +132,17 @@ appropriate
 approval
 approved
 approving
+aptitudes
 are all the
 are up to
 area
 areas
 areas of
 around
+array of options
+arsenal
+articulated
+as a
 as a
 as a reminder
 as a result of this
@@ -114,11 +151,16 @@ as follows
 as how
 as is
 as it
+as long as
+as many of you know
 as necessary
 as of
 as required
 as such
+as to say
+as usual
 as we
+as we know it
 as we move forward
 as we start
 as we're
@@ -127,8 +169,13 @@ as you
 as you can tell
 as you get
 as you know
+as you've seen
+ascertain
 aspect
+aspects
+assess
 assessing
+assessment
 assignments
 assist
 associated
@@ -138,6 +185,7 @@ at here
 at least
 at risk
 at start
+at that time
 at the end of the day
 at this point
 at this point in time
@@ -145,12 +193,15 @@ at this step
 attach rates
 attention
 augment
+augmented
 augmenting
 availability
 available
 avoid
 awaiting
+awareness
 awesome
+back to me
 backbone
 backfill
 backfills
@@ -164,15 +215,18 @@ based on my
 basic
 basically,
 basis
+be able to do so
 be advised
 be honest
 bear in mind
 bearish
+became
 because of
 become
 been waiting
 begin to
 beginning
+begs the question
 begun
 behavior
 behavioral
@@ -182,16 +236,22 @@ being done
 being put together
 belief
 beneficial
+best in class
+best of breeds
+best of breeds
 best practice
 best practices
 best wishes
 best words
 better
+better understand
 between them
 beyond
+bias for action
 big
 big ask
 big league
+big-bang
 bigger
 biggest
 bigly
@@ -200,24 +260,34 @@ blast
 block
 block out
 bolstering
+bottlenecks
 bottoms-up
 brand new
 break down
+breaking ground
+breakthrough
 breath
+breathtaking
 bringing
 broad view
 broader
 broader themes
 brought in
+build out
+built in
+built out
 bullish
 burden
 business
+business acumen
 business analytics
 business goals
 business impact
 business requested
+business vertical
 but also
 but seeing
+buzz
 by over
 by the time
 by then
@@ -227,38 +297,54 @@ bypass
 cadence
 calibration
 call out
+came up with
 can be done
+can count on
 can't wait
+can-do attitude
 capabilities
 capacity
+capitalize
+capture
 captured
 captures
 casacde
 cascade
+cascading
 cascading down
+case in point
 caveat
+ceaseless
 cement
 center of excellence
+centerpiece
+central
 certain
 certainly
 challenge
 challenges
 challenging
+champion
 championing
 champions
+chances are
 change control
 change review
 changes to
 charter
+charter
+check out
 check out
 checks
 circle back
 circle up
+circulate
 clarify
 clarifying
 clarity
 cleaner signals
 clear
+clearer
 clearly
 close out
 close rate
@@ -266,36 +352,58 @@ close the loop
 closed out
 closely
 closer
+closer to our goals
 clutter
+co-ordination
 code complete
+codifying
 cohesive
 coincides
 collaboration
+collapse
 collect
+collective
 collectively
+combination of
+combined
+come back
 come due
 come from
+come to life
 come up with
 comes
 comes up
 coming
+commitment
 commitments
+commits
+common
 communicate
 communicated
 communication
 communicative
+company-wide
 compatible
 compelling
 competencies
+competing
+competitive landscape
 compilation
+compiled
 compiled list
+complete estimation
 completed
 completely
+completeness
 completes
 completion
 complex
+comply
 component
 composing
+comprehensive
+comprehensive
+comprehensive scrub
 comprised
 concentrated
 concept
@@ -303,6 +411,7 @@ concept out
 conceptual
 concerns
 concerns or questions
+concise
 conclusions
 conducted
 confirm
@@ -310,35 +419,53 @@ confusion
 connect
 connecting
 connectivity
+considerable
 considered
 considering
+consistency
 consistent
 consistently
 consisting of
 consists
 consolidated
+consolidation
+constantly
 constrained
+consumable
 consumer
+consummate
 contains
 context
+contextual
 continually
 continue
 continued
 continues
+continues to verify
 continuing
+continuity
 continuous
 continuous improvement
+continuously
 contributed
+controls
+convening
+conviction
 cool
 coordinate
 core
 core competency
-correct me if I'm wrong
+cornerstone
+correct me if i'm wrong
+corresponding
+corroborates
 cost-to-serve
 could
 counterparts
 counting on
+countless
 couple
+coupled
 cover
 coverage
 creating
@@ -348,9 +475,13 @@ creativity
 crisper
 criteria
 critical
+critical time
 critically
 cross functional
 cross-functional
+cross-functionally
+cross-team
+crucial
 crystal
 curiosity
 current state
@@ -359,23 +490,41 @@ customer experience
 customer value
 cut
 cutting
+cycle
+data-driven
 dates
+de minimis
+dealt with
 debrief
 debugged
+decade
+deck
 declare
 dedicated
+dedication
 deem
 deep
 deep dive
+deepdive
+deepen our relationships
+deeper
 deeply
+defined by
 defining
 definitely
+definition
+degrees
 delay
+delighted
 deliver
+deliverables
 delivered
 delivering
 delivery against
+demeanor
+demonstrated
 denote
+department-level
 departmental
 dependencies
 dependency
@@ -384,42 +533,56 @@ depending
 described
 despite
 detail
+detailed
 details
 determine
 determined
 develop
 developed
+developing
 development
+developments
 devil's advocate
+devotes
 did more
 difference
 different
 different outcomes
+differentials
 differentiation
 differentiator
 differentiators
+difficulties
 digital
 direction
 directional
 directly
+disciplined
 discover
 discovered
 discovery
+discuss and agree
 discussion
 disentangled
 disjointed
 disposition
 disrupt
+distinct advantage
+distributed
 diverge
+divergent
+diving deeper
 do so much more
 documentation
 documented
 doesn't understand
 doing
 doing that
+domain knowledge
 don't hesitate
 don't worry
 double down
+doubling down
 downright
 dramatically
 drill down
@@ -427,28 +590,47 @@ drive
 driving
 dropped
 dropped out
+drove
+drove investment
 dubious
+due to
 due to
 due to the fact
 durable
+during 
 during which
+dynamic
 each different
 early
 early results
+earth shattering
+easily
+easy-to-follow
+ecosystem
+effective
+effective immediately
 effectively
 effort
 efforts
 element
+elements
+elevate
 elevated
+elevates
+elevating
+eliminate
 embedding
 emphasis
 empowered
+empowering
 empowerment
 enable
 enabled
 enablement
 enabling
 encapsulates
+encompassing
+encourage
 encourage
 encourage you all
 encourages
@@ -466,15 +648,19 @@ engage
 engaged
 engagement
 engaging
+enhanced
 enhancement
 enhancements
 enhancing
 enormous
 enough
 enriched
+enrichment
 ensure
+ensures
 ensuring
 entered
+enterprise grade
 entire
 entities
 entitlement
@@ -482,25 +668,45 @@ entitlements
 entropy
 envelope
 epic
+erroneously
 escalate
 especially
 essentially
+establish
 established
 establishing
+et al
 euphoria
 evaluate
+evaluation
+evangelists
 evangelize
+even easier
+even more
 even though
+eventually
 ever
+every
 every day
 every single
+everyday
+everything
 everywhere
 evidenced by
 evident
+evolution
+evolve
+evolving
 exactly
 excellence
+exceptional
 excited
+excitement
+exclusive
 execution
+executive drivers
+exemplifies
+existing
 existing
 expand
 expanded scope
@@ -508,25 +714,40 @@ expansion
 expected
 experience
 experiences
+expertise
+explanation
 explore
 exploring
 exponentially
+exposed
 exposure
 extend
+extensible 
+extent
 external language
 extra
+extracting
+extracting
 extraordinary
 extremely
+facilitate
+facilitates
 facilitating
 facing
 factor
+factored in
 factors
 fairly
+fallout
+familiar
 familiarity
+fantastic
 far more
 fast track
 fast-paced
 faster than ever
+fearless
+fearlessly
 feasible
 feat
 feel free
@@ -536,6 +757,7 @@ figure
 figure out
 figures
 figuring out
+final stretch
 finale
 finalization
 finalize
@@ -543,13 +765,18 @@ finalized
 finalizing
 finally
 find
+findings
 fine-tune
 finish line
 finish off
 fire on all cylinders
+firing on all cylinders
 first round
 first time
 fit under
+flagship
+flavor of the month
+fleshed out
 flexibility
 focal
 focus
@@ -558,9 +785,12 @@ focusing on it
 follow-up
 following
 following,
+footprint
 for all
 for details
 for me
+for more
+for now
 for the above
 for them
 for this
@@ -568,15 +798,22 @@ for those of you
 forefront
 forklift
 formalized
+formerly
 forum
 forward
+fostering
 found
 found that
 foundation
 foundational
 fractional
+framework
 franchise
+friction-free
 from it
+from me
+from the start
+from there
 from what i've heard
 front
 fuel
@@ -586,6 +823,7 @@ full load
 full stack
 full-day
 fully
+fully baked
 fumes
 function
 functional
@@ -598,10 +836,14 @@ fundamental
 fundamentally
 fundamentals
 further
+furthering
+furthermore
 futhermore
 future
 gain
 gained
+game changer
+gameplan
 gamification
 gap
 gaps
@@ -610,19 +852,25 @@ gating
 gearing up
 general
 generally
-Generally Available
+generally available
 generally,
+generating
 generation
 generational
 get a better
 get asked
 get go
+get input
 get started
 get this done
 get to
+get us
+given me
 given that
 glad
 global
+go-to
+go-to-market
 going after
 going forward
 going to have to
@@ -631,10 +879,14 @@ good practice
 got
 gotten
 governance
+gracefully
 great news
 greater
 ground up
 groundwork
+growth machine
+gsd
+gtm
 guarantee
 guaranteed
 guaranteeing
@@ -642,7 +894,11 @@ guessed
 guidance
 guide us
 guidelines
+guides
+guiding
+gusto
 habits
+halfway through
 halting
 handed
 handle
@@ -650,6 +906,9 @@ handling
 happen
 happening
 hard due
+hard work
+harness
+harnesses
 has been
 has made
 has worked
@@ -658,58 +917,86 @@ have been
 have made
 have provided some clarity here
 having
+having said all this
 having said that
+headliner
 heads
 headstart
 headwind
 headwinds
+heart of
+heavily
 heavy
+heightened
+help define much 
 help here
 help us
 hence
 here's the
+here's what
+hidden
+hidden insights
 high level
+high performing
+high quality
 high standard
+high-level
 highlight
 highlighting
 highlights
 highly
+hinder
 historical
 historically
+hit the ground running
 hobo
 holistic
+holistically
 honestly
 hopefully
+horizon
 hosted
 hotspots
+how and with whom
 how it ends
+however
+huddle sessions
 huge
 humongous
 hyperbolic
 i think
+i'd like to
+ideal
+ideal scenario
+ideal selection
 ideally
 ideation
-Identified
+identified
+identified
 identify
 identifying
 identities
 idiosyncratic
-if I may
+if i may
+if there are any questions
+if we decide
 if we need to
 if you have any questions
+imagine a world
 immediate
 immediately
+immense
 impact
 impacted
 imperative
 implementation
-Implementation
+implementation
 implemented
 implication
 implies
 important
 importantly
-Importantly
+importantly
 impressive
 improve
 improvement
@@ -718,37 +1005,64 @@ in actuality
 in addition to
 in advance
 in conjunction
+in depth
 in doubling
+in each
+in fact
 in helping
+in mind
+in order for that
 in order to
+in other news
 in other words
 in partnership
 in place
 in progress
 in review
 in speaking with
+in summary
+in terms of
+in that case
+in that time
+in that vein
+in the end
 in the future
 in the interest of time
 in the meantime
+in the meeting
+in the news
 in the past
+in the world
 in this role
 in view
+in what were
+in-depth
+in-flight
 inaugural
+incepted
 includes
+incorporate feedback
 incorporated
+incorporating
+increased
 increasing
 incredible
 incredibly
 incrementally
+indicate
 indicated
+indicates
 indicative
+individual contributor
 individually
+industrialization
 industries
 industry
 infected
 inflection point
 inflight
 influence
+influenced
 inform
 information
 informed
@@ -758,24 +1072,34 @@ initial
 initiate
 initiative
 initiatives
+inner-workings
 innovation
 innovations
 inquiries
 insanely
+insatiable
 inspiring
 installment
 instead
 instinct
 instituted
+instrumental
 instrumentation
+integral
 integrated
+integrates
 integrating
+integration
 integrity
 intended
 intensity
 intentionally
 intentions
+interact
+interacting
+interaction
 interactions
+interesting
 interfere
 interim
 interlock
@@ -784,18 +1108,25 @@ internal
 internal language
 interwoven
 introductory
+invaluable
 involved
 involvement
+ironed out
+is able to
 is being
 is built
 is here
+is in how
 is known
 is more
 is one of those
+is to say
 is what
 is why
 issues
+it down
 it seems
+it's time
 it's time for
 item
 items
@@ -812,9 +1143,14 @@ just early
 just like
 just wanted
 justification
+keen eye
+keep this in mind
 keeping
+keeping an eye on
 keeping in mind
 key
+key benefits
+key contributor
 kick in
 kick started
 kick-off
@@ -826,16 +1162,25 @@ kickoff
 kickoffs
 kind
 kind of
+knowledge base
+knowledge transfer
+knowledge transfer
+knowledge-sharing
 laborious
 lack of
 laid out
+large
 large scale
 last but not least
+last week
 late
 later part
+lauded
 launch
 leader
 leaders
+leadership
+leading up to
 leaning towards
 leapfrog
 learnings
@@ -843,12 +1188,16 @@ legacy
 less than desirable
 lessons learned
 let me be
+let me know
 let's get
 level of
 level set
+level-set
 lever
 leverage
+leveraged
 leveraging
+lift and shift
 limitations
 lining up
 lists
@@ -857,8 +1206,10 @@ little
 loaner
 loaners
 locate
+locked down
 logic
 logical
+logistical
 longterm
 look
 look ahead
@@ -866,11 +1217,14 @@ look back
 lookahead
 looked
 looking
+lookout
 looks like
 loop
+looped
 lot of
 lots of
 low
+low-hanging
 lower level
 made it difficult
 made to
@@ -884,29 +1238,39 @@ make it so
 make sure
 makes it
 makes it easy
+making sure
 manage
 manipulation
+manipulations
 manner
 many
+many times
 mapped
+mapping out
 marginal
 marked
 massive
 massively
+materially
 materials
 mature
+may have seen
 may result
 meaningful
 meaningfully
 means
 meant
 meantime
+mechanisms
 mentioned
 message areas
+methodology
+middle ground
 might be a
 migration
 mindset
 minor
+misalignment
 mission
 mission critical
 missions
@@ -917,6 +1281,8 @@ modernize
 modifications
 modularization
 moment
+monumental
+morale
 more and more
 more even
 more general
@@ -932,38 +1298,64 @@ mostly
 mother of all
 move forward
 moved
+much earlier
 much more
+much richer
 multiple
 must be
 my time
 myself
 nature
+navigate
 near daily
+near real-time
+nearly
+necessarily
+necessary
 need further
 need this
+need to be reset
+need to take
+need to think
 needed
 net,
+newest
 newly formatted
 newly ramped
 newsletters
 next generation
+next level
 next phases
 next week
 nicely
+no doubt
 no longer
 no more
+no other
 no simple feat
 no updates
+not defined
+not fully baked
+not necessarily
 not only that
 not result
+not shown
 not started
+not the only ones
+not unusual
+notable
 note
+note that
 noteworthy
+nothing worse
 notice
+noticeable
 noticed
+notwithstanding
 now
 nuance
 number
+numerical
 numerous
 numerous other aspects
 nurture
@@ -974,17 +1366,25 @@ obtain
 obviate
 obviously
 occur
+occurring
+occurs
 of all
+of choice
 of course
 of having
 of our
 of the week
 of this
+of us
 of whether
+off-the-charts
 offered
 offering
+official
 officially
+often the one
 on a going forward basis
+on a positive note
 on average
 on behalf
 on both
@@ -994,49 +1394,67 @@ on that
 on that front
 on the
 on this
+on this top
 on top
 on top of
 on-boarded
+on-time
 once
 once we
+one of the
 ongoing
+only to realize
 onsite
+open up
+operability
 operating
 operationa
 operational
 operational excellence
+operationalize
 operative
 opportunities
 opportunity
+opted
 optics
 optimization
 optimize
 optimizing
 or more
+or questions
+orchestrating
+organization
 organizing
 other
 other hand
 others
 our business
 out of
+out of the loop
 out-of-the-box
 outcome
 outcomes
 outreach
 outstanding
+over the course
 over time
 overage
 overall
+overall effect
 overcome
 overhaul
+overhead
+overlay
 overloaded
 oversight
 overview
 owing to
 owners
+ownership
 owning
 pacing
 pain points
+palpable
 paradigms
 parallelize
 part of
@@ -1044,9 +1462,10 @@ partially
 participate
 participation
 particular
+particularly
 partner
 partnering
-Partnering
+partnering
 party like it's
 passionate
 past and present
@@ -1059,6 +1478,8 @@ perform
 performant
 performed
 perhaps
+period
+periodic
 permanent
 personalization
 perspective
@@ -1070,6 +1491,8 @@ piloting
 pin-pointed
 pivot
 place bets
+plan accordingly
+plan of attack
 planners
 plateauing
 platform
@@ -1077,8 +1500,10 @@ plays
 please note
 pleased
 pleasure
+plus
 plus,
 point
+point of contact
 poor conversion
 portions
 position
@@ -1096,6 +1521,7 @@ predictable
 prefer
 preliminary
 preparing
+presence
 presented
 presented the result
 pretty
@@ -1104,27 +1530,44 @@ preventative
 primarily
 principles
 priorities
+prioritization
 prioritized
 prioritizing
 priority
+privileged
 probably
 problematic
+procedures
+proceed
 process
 processes
+procurement
+procuring
 produce
+product roadmaps
 production grade
+production-ready
 productivity
+professional
 profiles
 progress
 progressed
+project needs
+project scope
+prolific
+promote
 prompted
 pronounced
 proof of concept
 proper
 properly
 proposal
+proven out
 provide
+provided
 provided some
+providers
+provides
 providing
 pulled
 pulse
@@ -1137,22 +1580,32 @@ pushing
 put together
 putting
 quality
+quality level
+quick
 quick glance
 quick reminder
+quickly
 quite
+racking up
 raises
+ramification
 ramping up
 rapidly
+rather
 rationale
 re-absorbing
+re-adjust
 re-commit
 re-evaluate
 re-prioritization
 reach out
 reached
+reaching
 reaching out
+readiness
 readout
 real
+realize
 realized
 really
 reason
@@ -1160,9 +1613,11 @@ reasons being
 rebuilding
 recap
 received
+recently
 reckoning
 reclaim
 recognition
+recognizable
 recraft
 redefine
 reduces
@@ -1173,50 +1628,72 @@ refactor
 refer
 reference
 refine
+refinement
 reflect
 reflecting
 regarding
 regular
 reinforce
 reinforcing
+reinstated
 reinventing
+reiterate
 related
 relevant
 reliability
+reliably
 remaining
+remediation
 remediations
+remind everyone
 replicated
 report to
 repository
+require help
 requirements
 research project
+residing
 resilience
 resilient
 resolve
 resolved
+resolving the issue
 resonate
 resource
 resources
 resourcing
 respective
+respectively
 respite
 responsibilities
 responsible
+restoration
+restructured
 resulted
 resulting
 retracement
 revamped
+reverting
 review of
 revisit
+revolves
 rewarding
+rhythm
 rich
+rich array
+ridiculously
+right from
 right kind of
+right people
+right solution
 right way
 righteous
 rises
 roadmap
 robust
 roll around
+roll it out
+roll up
 rolled
 rolled out
 rolling out
@@ -1225,72 +1702,101 @@ roughly
 routine
 rubber hits the road
 rubber meets the road
+run-the-business
 safe to assume
 same page
 same time
+satisfying
 saw
 saying
 scaffolding
 scalable
 scale
 scaleable
+scaled up
 scope of work
 scrum
+scrutiny
 seamless
+seamlessly
+second nature
 security & compliance
 see below
 seeing trends
 seek
 select
 self-serve
+send out
 sense of
+sensibility
+sensitivity
 sent out
 separate
 sequencing
 series
 set the bar
+setting the bar
 setup time
 several
+severely
+shaping up
 share with you
 shareout
+sharpen
 shift
 shifted
 shining
 short term
+short time
 shortly
 should
 should be
 should expect
 show up
+showcased
 side
 sign-off
 signal to noise
 signaling
 significant
 significantly
+similarly
+simplified
 simplify
 simply
 simultaneously
 since
 since we last
 single summary
+single-handedly
 situation
+sizable
+sizing analysis
+slate
 slightly
 slippage
+small feat
+smart goals
 smart money
 smooth
 smoothly
+sneak peek
 so far
+so i
 so many
 so on
 so that
+socialized
 solid
+solidifying
+solution mode
 some
 some of it
 some of the work
 some things
 some time
 something
+somewhat
 sooner
 source of
 spanning
@@ -1299,18 +1805,25 @@ special
 specialist
 specific
 specifically
+specifics
 spirit
 sponsoring
+spot on
 spotlights
 stab
 stability
+staff up
+staffing
 stage
 stakeholders
+stakeholders needs
 stamp out
 stand point
+standalone
 standardize
 standing up
 standpoint
+stands out
 starting out
 state of
 state of the art
@@ -1319,14 +1832,19 @@ status
 status is
 stay ahead
 stay tuned
+steadily
 steady
 step function
 stick
+sticky
 still
+stood out
 stop by
+strain
 strategic
 strategy
 streamline
+streamlined
 streamlining
 streams
 stretched
@@ -1336,6 +1854,8 @@ stronger
 strongly
 stuff
 sub-groups
+submission
+subsequently
 substantial
 substantially
 success
@@ -1343,13 +1863,18 @@ success of
 successful
 successfully
 such
+such a combination
+sucks
 suffice
+sufficient
+summarized
 summary table
 sunlight
 super
 supplement
 support
 supporting
+supportive
 sure
 surface
 surfaced
@@ -1358,31 +1883,45 @@ surprisingly
 sustained
 synergies
 synergy
+tackle
+tackle the market
 tactical
 tag
 tailwinds
 take a couple of seconds
 take a few
+take a moment
 take the opportunity
 take this time
+take-aways
 takeaway
+takes a village
 taking
 talent
 talented
 talk a little bit
 talking about
+target
 targeted
 targeting
+task force
 taxonomy
 team member
+team player
+technical leads
+technologists
 temp solution
+tenaciously
 tenets
 tentative
+tenure
 textbook
 than that
 that is,
 that makes
 that the
+that you know
+that's ok
 the charge
 the fact that
 the need
@@ -1398,52 +1937,79 @@ their business
 themes
 there there
 thereafter
+thereby
+therefore
 these changes
 thinking
 this change
 this means
+this much
 this step
 this time
 this year
+thorough
 thought leader
+thoughtful
 thrashing
 thrilled
+thriving
+through it all
 through the addition
 through the majority
+through the process
+through these
 throughout
+thus
+time of year
 timeframe
 timeline
+timelines
 tiny
 tirelessly
+to announce
 to be able
 to be added to
+to be as
 to be clear
 to be sure
 to bring
+to come
+to do so
+to guide
 to include
+to increase
 to make sure
 to meet
 to quote
 to summarize
+to that end
 to use
 to what you see
+to you
 today
 together as
 tombstoning
 tons
 top level
 top of mind
+total of
+totally
 toward
 towards
+traceability
+traceable
 track
 tracker
 tracking
 trade-off
+trajectory
 transform
 transformation
 transformations
+transformed
 transition
 transitioned
+transitions
 translated
 tremendous
 trend
@@ -1460,6 +2026,7 @@ turned out
 turnout
 turns out
 tweaks
+ultimate
 ultimately
 umbrage
 umbrella
@@ -1467,24 +2034,32 @@ unanimously
 unbelievable
 unblock
 unbounded
+uncompromising
 uncover
 underlying
+underpin
 underscore
+underserved
 understanding
+understood
+undertakes
 underway
 unexpected
 unified
 unifying
 unique
 unique needs
+uniquely
 unprecedented
 unprompted
+unreal
 until then
 unwavering
 up to speed
 up-to-date
 upcoming
 upholding
+upleveling
 upon
 uptick
 upwards
@@ -1498,11 +2073,14 @@ utilization
 utilize
 utilizing
 validate
+validates
 validation
 value
+value from
 variation
 variety
 various
+varying
 vast
 velocity
 very
@@ -1511,6 +2089,7 @@ viable
 viral
 visibility
 vision
+visionaries
 waiting on
 walked out
 walkthrough
@@ -1528,22 +2107,39 @@ we've made
 web of
 week of
 welcoming
+well defined
+well deserved
+well measured
+well positioned
 were requiring
 what it
 what we
 what we call
+when reviewing
+whereas
 wherever
+whether
 whether it's for
+which in turn
 which was
 which will
+while this
 while we
 while we have not
+who are receiving
+who joined
+whole thread
+wholistic
 whopping
 wide
+widely
 wider
+wild ride
 will also
 will be
+will begin
 will continue
+will define the
 will discuss
 will face
 will happen
@@ -1554,9 +2150,12 @@ window-dressing
 wise
 with how
 with respect to
+with you as well
+without further ado
 work
 work on
 work stream
+workarounds
 worked
 working
 working on
@@ -1564,612 +2163,13 @@ working to
 workloads
 workstream
 workstreams
+world class
 would like
 wrap up
 wrapping
 year-end
-you all
-encompassing
-eventually
-collective
-consolidation
-due to
-project needs
-existing
-consumable
-exposed
-easily
-manipulations
-evolve
-identified
-a set of
-deliverables
-addressed
-much earlier
-concise
-simplified
-corresponding
-rather
-staffing
-in-flight
-hinder
-difficulties
-reverting
-addition
-harnesses
-harness
-occurring
-continuously
-need to think
-whether
-if we decide
-charter
-level-set
-timelines
-familiar
-to you
-specifics
-note that
-not defined
 yet
-that's ok
-high-level
-ironed out
-interact
-dynamic
-guiding
-exclusive
-that you know
-it's time
-mapping out
-here's what
-you need to do
-official
-act
-submission
-you're done
-or questions
-check out
-distributed
-capture
-given me
-quick
-action requested
-keep this in mind
-when reviewing
-as a
-varying
-degrees
-in each
-with you as well
-looped
-deck
-collapse
-increased
-best in class
-one of the
-readiness
-may have seen
-in the news
-so I
-assessment
-well measured
-spot on
-erroneously
-standalone
-stands out
-solidifying
-commits
-compiled
-aggregate
-on-time
-sneak peek
-send out
-to come
-will begin
-quickly
-promote
-cross-team
-common
-rhythm
-evolving
-near real-time
-production-ready
-overhead
-in terms of
-buzz
-plus
-over the course
-cycle
-facilitate
-deeper
-sucks
-logistical
-friction-free
-doubling down
-go-to-market
-evolution
-organization
-of us
-achievements
-reaching
-every
-in the world
-activities
-world class
-disciplined
-leading up to
-underpin
-everything
-growth machine
-excitement
-awareness
-particularly
-palpable
-capitalize
-revolves
-procuring
-accelerating
-all the while
-aligning
-how and with whom
-tackle
-gtm
-effective immediately
+you all
 you are aware
-leadership
-competitive landscape
-which in turn
-deepen our relationships
-breaking ground
-tackle the market
-overlay
-crucial
-amplifying
-well deserved
-transitions
-who are receiving
-from me
-ensures
-amounts to
-provides
-thorough
-influenced
-wholistic
-whole thread
-no doubt
-interesting
-low-hanging
-necessarily
-not necessarily
-having said all this
-to announce
-advancing
-presence
-professional
-as you've seen
-fantastic
-is in how
-heavily
-lookout
-heightened
-scrutiny
-affecting
-recently
-procedures
-restoration
-complete estimation
-discuss and agree
-corroborates
-cascading
-notwithstanding
-in order for that
-as usual
-flagship
-holistically
-cross-functionally
-scaled up
-total of
-keeping an eye on
-begs the question
-deepdive
-built out
-thus
-in what were
-in other news
-firing on all cylinders
-out of the loop
-codifying
-right solution
-solution mode
-empowering
-uniquely
-underserved
-from the start
-summarized
-mechanisms
-sizing analysis
-among
-large
-sticky
-for more
-proven out
-fleshed out
-continuity
-arsenal
-can count on
-flavor of the month
-comprehensive
-key benefits
-elements
-high performing
-after the fact
-huddle sessions
-supportive
-headliner
-totally
-time of year
-abide
-indicate
-comply
-periodic
-as many of you know
-roll up
-without further ado
-take-aways
-in depth
-everyday
-plan accordingly
-comprehensive
-comprehensive scrub
-from there
-prioritization
-ultimate
-remind everyone
-small feat
-orchestrating
-who joined
-built in
-refinement
-not shown
-acting on it
-however
-validates
-in-depth
-delighted
-devotes
-instrumental
-knowledge base
-chances are
-dedication
-undertakes
-encourage
-knowledge-sharing
-industrialization
-gusto
-through it all
-cornerstone
-key contributor
-ceaseless
-developments
-invaluable
-insatiable
-easy-to-follow
-go-to
-keen eye
-fully baked
-not fully baked
-transformed
-demeanor
-furthermore
-trajectory
-as long as
-run-the-business
-champion
-effective
-showcased
-tenure
-aspects
-alone
-augmented
-commitment
-GSD
-abilities
-incepted
-traceable
-team player
-above all
-immense
-domain knowledge
-single-handedly
-consummate
-prolific
-monumental
-individual contributor
-breathtaking
-subsequently
-aforementioned
-gracefully
-upleveling
-fearless
-elevates
-generating
-restructured
-at that time
-drove investment
-can-do attitude
-bottlenecks
-through these
-notable
-racking up
-steadily
-setting the bar
-short time
-lauded
-conviction
-bias for action
-reliably
-business acumen
-uncompromising
-fostering
-thriving
-off-the-charts
-demonstrated
-ability to execute
-exemplifies
-fearlessly
-hit the ground running
-countless
-tenaciously
-high quality
-quality level
-seamlessly
-well positioned
-considerable
-all things
-inner-workings
-facilitates
-reinstated
-streamlined
-constantly
-slate
-shaping up
-staff up
-take a moment
-need to take
-on a positive note
-(respectively)
-necessary
-operationalize
-knowledge transfer
-incorporating
-project scope
-therefore
-workarounds
-require help
-for now
-provided
-department-level
-eliminate
-lift and shift
-adopted
-proceed
-ideal scenario
-differentials
-circulate
-in summary
-indicates
-integration
-integrates
-furthering
-of choice
-last week
-diving deeper
-get input
-In the meeting
-enterprise grade
-operability
-come back
-remediation
-heart of
-materially
-sufficient
-in mind
-detailed
-game changer
-newest
-right from
-in fact
-case in point
-array of options
-ideal
-often the one
-rich array
-ideal selection
-middle ground
-findings
-overall effect
-such a combination
-severely
-combination of
-much richer
-knowledge transfer
-incorporate feedback
-build out
-dealt with
-locked down
-plan of attack
-apprised
-continues to verify
-thoughtful
-co-ordination
-hard work
-well defined
-closer to our goals
-get us
-i'd like to
-roll it out
-opted
-big-bang
-controls
-right people
-fallout
-sensitivity
-on this top
-footprint
-strain
-be able to do so
-to do so
-let me know
-if there are any questions
-explanation
-not unusual
-defined by
-occurs
-understood
-acknowledge
-need to be reset
-misalignment
-nothing worse
-only to realize
-in the end
-satisfying
-stakeholders needs
-re-adjust
-halfway through
-ramification
-in that case
-extent
-traceability
-integral
-navigate
-company-wide
-ridiculously
-expertise
-come to life
-et al
-factored in
-sizable
-completeness
-ascertain
-enrichment
-procurement
-came up with
-is able to
-visionaries
-technologists
-evangelists
-horizon
-wild ride
-recognizable
-breakthrough
-imagine a world
-earth shattering
-coupled
-unreal
-even easier
-centerpiece
-enhanced
-thereby
-realize
-even more
-value from
-open up
-takes a village
-stood out
-second nature
-somewhat
-in that time
-nearly
-ownership
-elevating
-next level
-better understand
-socialized
-interacting
-resolving the issue
-making sure
-it down
-while this
-many times
-reiterate
-critical time
-noticeable
-through the process
-as we know it
-not the only ones
-final stretch
-exceptional
-back to me
-ecosystem
-no other
-this much
-distinct advantage
-best of breeds
-providers
-business vertical
-will define the
-guides
-combined
-extracting
-hidden
-extracting
-hidden insights
-residing
-best of breeds
-privileged
-decade
-de minimis
-contextual
-to be as
-evaluation
-period
-during 
-in that vein
-numerical
-to guide
-methodology
-data-driven
-sensibility
-aptitudes
-Became
-point of contact
-central
-advocate
-formerly
-divergent
-competing
-product roadmaps
-executive drivers
-technical leads
-leveraged
-help define much 
-clearer
-morale
-Articulated
-Framework
-Definition
-SMART Goals
-extensible 
-widely
-acted
-developing
-similarly
-to increase
-drove
-interaction
-aimed
-almost complete
-target
-assess
-task force
-convening
-establish
-elevate
-consistency
-sharpen
-to that end
-whereas
-gameplan
-as to say
-is to say
+you need to do
+you're done
